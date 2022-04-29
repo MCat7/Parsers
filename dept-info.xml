@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<department>
+    <deptNo>D01</deptNo>
+    <deptName>ACCOUNTING</deptName>
+    <location>Vilnius</location>
+    <employees>
+        <employee>
+            <empNo>emp01</empNo>
+            <empName>Nick</empName>
+        </employee>
+        <employee>
+            <empNo>emp02</empNo>
+            <empName>Mike</empName>
+            <managerNo>emp01</managerNo>
+        </employee>
+        <employee>
+            <empNo>emp03</empNo>
+            <empName>Cris</empName>
+        </employee>
+    </employees>
+</department>

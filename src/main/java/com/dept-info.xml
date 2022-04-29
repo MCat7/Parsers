@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organisation>
+    <orgName>Ширли Мырли</orgName>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>Vilnius</location>
+            <employees>
+                <employee>
+                    <empNo>emp01</empNo>
+                    <empName>Nick</empName>
+                </employee>
+                <employee>
+                    <empNo>emp02</empNo>
+                    <empName>Mike</empName>
+                    <managerNo>emp01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>emp03</empNo>
+                    <empName>Cris</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>MANAGERS</deptName>
+            <location>Vilnius</location>
+            <employees>
+                <employee>
+                    <empNo>emp04</empNo>
+                    <empName>Люся</empName>
+                </employee>
+                <employee>
+                    <empNo>emp05</empNo>
+                    <empName>Мася</empName>
+                    <managerNo>emp04</managerNo>
+                </employee>
+                <employee>
+                    <empNo>emp06</empNo>
+                    <empName>Тася</empName>
+                    <managerNo>emp04</managerNo>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organisation>
